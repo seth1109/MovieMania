@@ -1,0 +1,22 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  font-family: 'roboto', sans-serif;
+  background-color: #dddddb;
+}
+
+.App.light {
+  background-color: white;
+  color: black;
+  position: relative;
+}
+
+.App.dark {
+  background-color: black;
+  color: white;
+  position: relative;
+}
+
